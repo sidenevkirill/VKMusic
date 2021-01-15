@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "464598941863",
+    "firebase_url": "https://vkmusic-master.firebaseio.com",
+    "project_id": "vkmusic-master",
+    "storage_bucket": "vkmusic-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464598941863:android:612c86ab7c170907",
+        "android_client_info": {
+          "package_name": "com.sidenev.vkmusic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596558680668-7utlhd8r75sinh4p54hhujkbfdnbc45m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sidenev.vkmusic",
+            "certificate_hash": "4f35a1508e9b6dbe1775017f3032129e4d9c4526"
+          }
+        },
+        {
+          "client_id": "596558680668-4cjgbpbv7kbqme3qorvjt14s38frc5gu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfMxD35aC5mvLgdNnYKyJFHKSVGEEcn44"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464598941863-q7o25dpvju678pt4gqh8ufnsnciv2c1u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464598941863:android:994a2110eca3c547",
+        "android_client_info": {
+          "package_name": "kh.sid.vkmusic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464598941863-cgkghmme1qoj7hvuemeds30fer8jv403.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kh.sid.vkmusic",
+            "certificate_hash": "9a40fa2b47f1a05c4c9d2bc64b23dc48d166a086"
+          }
+        },
+        {
+          "client_id": "464598941863-q7o25dpvju678pt4gqh8ufnsnciv2c1u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0BIv5r1p4q1ESnX3bjejGQM42QtXxe6A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464598941863-q7o25dpvju678pt4gqh8ufnsnciv2c1u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
